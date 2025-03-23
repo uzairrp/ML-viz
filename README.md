@@ -36,7 +36,7 @@ This repository provides a full pipeline for automobile price prediction using m
 
 To launch the price prediction web application, make sure that you have the environment setup completed and all the dependecies' requirements are met. Finally, run the following command in the terminal:
 
-    * streamlit run auto_price.py
+    streamlit run auto_price.py
 
 
 ## 📝 Notes
